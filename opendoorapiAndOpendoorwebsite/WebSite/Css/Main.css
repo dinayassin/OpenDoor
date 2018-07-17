@@ -1,0 +1,376 @@
+﻿/*----------------data Table GridView Css----------------------*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font: 11px Tahoma;
+}
+
+h1 {
+    font: bold 32px Times;
+    color: #666;
+    text-align: center;
+    padding: 20px 0;
+}
+
+#container {
+    width: 700px;
+    margin: 10px auto;
+}
+
+.mGrid {
+    width: 100%;
+    background-color: #fff;
+    margin: 5px 0 10px 0;
+    border: solid 1px #525252;
+    border-collapse: collapse;
+}
+
+    .mGrid td {
+        padding: 2px;
+        border: solid 1px #c1c1c1;
+        color: #717171;
+    }
+
+    .mGrid th {
+        padding: 4px 2px;
+        color: #fff;
+        background: #424242 url(grd_head.png) repeat-x top;
+        border-left: solid 1px #525252;
+        font-size: 0.9em;
+    }
+
+    .mGrid .alt {
+        background: #fcfcfc url(grd_alt.png) repeat-x top;
+    }
+
+    .mGrid .pgr {
+        background: #424242 url(grd_pgr.png) repeat-x top;
+    }
+
+        .mGrid .pgr table {
+            margin: 5px 0;
+        }
+
+        .mGrid .pgr td {
+            border-width: 0;
+            padding: 0 6px;
+            border-left: solid 1px #666;
+            font-weight: bold;
+            color: #fff;
+            line-height: 12px;
+        }
+
+        .mGrid .pgr a {
+            color: #666;
+            text-decoration: none;
+        }
+
+            .mGrid .pgr a:hover {
+                color: #000;
+                text-decoration: none;
+            }
+/*----------------End data Table GridView Css----------------------*/
+
+.modalDialog {
+    position: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background: rgba(0,0,0,0.8);
+    z-index: 99999;
+    opacity: 0;
+    -webkit-transition: opacity 400ms ease-in;
+    -moz-transition: opacity 400ms ease-in;
+    transition: opacity 400ms ease-in;
+    pointer-events: none;
+}
+
+    .modalDialog:target {
+        opacity: 1;
+        pointer-events: auto;
+    }
+
+    .modalDialog > div {
+        width: 400px;
+        position: relative;
+        margin: 10% auto;
+        padding: 5px 20px 13px 20px;
+        border-radius: 10px;
+        background: #fff;
+        background: -moz-linear-gradient(#fff, #999);
+        background: -webkit-linear-gradient(#fff, #999);
+        background: -o-linear-gradient(#fff, #999);
+    }
+
+.close {
+    background: #606061;
+    color: #FFFFFF;
+    line-height: 25px;
+    position: absolute;
+    right: -12px;
+    text-align: center;
+    top: -10px;
+    width: 24px;
+    text-decoration: none;
+    font-weight: bold;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    -moz-box-shadow: 1px 1px 3px #000;
+    -webkit-box-shadow: 1px 1px 3px #000;
+    box-shadow: 1px 1px 3px #000;
+}
+
+    .close:hover {
+        background: #00d9ff;
+    }
+
+#LogImgViewModal_Title {
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(51, 122, 183);
+}
+
+#LogImgViewModal_Content {
+    font-size: 20px;
+    font-family: Arial;
+    color: green;
+}
+
+#ImgPreview {
+    width: 100%;
+    border: solid 5px rgb(104, 33, 122);
+    border-radius: 10px;
+}
+
+#LogImgViewModalPanel {
+    width: 40%;
+}
+
+.IsOpenStatusLog {
+    width: 75px;
+}
+
+.btnEditU {
+    width: 80px;
+}
+
+.btnDelU {
+    width: 80px;
+}
+
+/*                                       UDM                               */
+
+
+#UDMTitle {
+    color: red;
+}
+
+
+#UDMPanel {
+    color: green;
+    width: 1100px;
+    font-size: 20px;
+}
+
+.UDM_tableColSpace {
+    padding: 40px;
+}
+
+
+#UDM_V {
+    width: 200px;
+}
+
+.UDM_Titles {
+    background-color: cyan;
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: darkblue;
+}
+
+#UDM_MasterTable {
+    vertical-align: top;
+    width: 100%;
+}
+
+.UDM_MasterCol {
+    border: solid 1px red;
+    vertical-align: top;
+    padding: 5px;
+    border-color: transparent;
+    width: 50px;
+}
+
+.UDM_TextBox {
+    width: 200px;
+    border: 1px solid black;
+    margin: 5px;
+}
+
+.UDM_UC {
+}
+
+.UDM_UP {
+    width: 100px;
+    background-color: red;
+}
+
+#UDM_ImgProfile {
+    width: 60%;
+    height: auto;
+    border: solid 5px rgb(104, 33, 122);
+    border-radius: 10px;
+}
+
+
+input[type=checkbox] {
+    /* Double-sized Checkboxes */
+    -ms-transform: scale(1.5); /* IE */
+    -moz-transform: scale(1.5); /* FF */
+    -webkit-transform: scale(1.5); /* Safari and Chrome */
+    -o-transform: scale(1.5); /* Opera */
+    margin: 5px;
+}
+
+#UDMTitle {
+    color: chartreuse;
+    font-weight: bold;
+    background-color: black;
+    padding: 5px;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 25px;
+}
+
+#UDMContent {
+    padding: 15px;
+    visibility: hidden;
+}
+
+#UDM_ImgProfileDiv {
+    text-align: right;
+    vertical-align: central;
+}
+
+#UDM_btnCASImg {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 50%;
+}
+
+/*Upload*/
+#progress-wrp {
+    border: 1px solid #0099CC;
+    padding: 1px;
+    position: relative;
+    height: 30px;
+    border-radius: 3px;
+    margin: 10px;
+    text-align: left;
+    background: #fff;
+    box-shadow: inset 1px 3px 6px rgba(0, 0, 0, 0.12);
+}
+
+    #progress-wrp .progress-bar {
+        height: 100%;
+        border-radius: 3px;
+        background-color: #f39ac7;
+        width: 0;
+        box-shadow: inset 1px 1px 10px rgba(0, 0, 0, 0.11);
+    }
+
+    #progress-wrp .status {
+        top: 3px;
+        left: 50%;
+        position: absolute;
+        display: inline-block;
+        color: #000000;
+    }
+
+#UDM_message {
+    color: red;
+    text-align: left;
+    font-size: 16px;
+    margin: 10px;
+}
+
+#UDM_PhotoFile {
+    visibility: hidden;
+    width: 1px;
+    height: 1px;
+}
+
+
+.validationError {
+    border: solid 3px red;
+}
+
+#RoleModalPanel {
+    width: 100px;
+}
+
+#RoleModal_Title {
+    font-size: 30px;
+    font-family: Arial;
+    text-align: center;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(51, 122, 183);
+}
+
+#RoleModal_Content {
+    font-size: 20px;
+    font-family: Arial;
+    color: green;
+    padding: 10px;
+}
+
+#RoleModalPanel {
+    width: 40%;
+}
+
+#RoleModal_Description {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+}
+
+#ChangePassWordDiv {
+    text-align: right;
+}
+
+#ChangePassWordimg {
+    width: 3px;
+    height: auto;
+}
+/*--------------------------------------------------------------------------*/
+
+#RoleModal_WaitImg {
+    /*visibility: visible;*/
+    visibility: hidden;
+}
+
+#UserDataModal_WaitImg {
+    /*visibility: visible;*/
+    visibility: hidden;
+}

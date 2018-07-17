@@ -1,0 +1,67 @@
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe.config
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.pdb
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OzekiSDK.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.HomeForm.resources
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.Properties.Resources.resources
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.exe
+C:\Users\user\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.pdb
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe.config
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.exe
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.pdb
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.pdb
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OzekiSDK.dll
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csprojResolveAssemblyReference.cache
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.HomeForm.resources
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.Properties.Resources.resources
+C:\Users\nashe\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csproj.GenerateResource.Cache
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe.config
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.exe
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.pdb
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoor-Client.pdb
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\OzekiSDK.dll
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csprojResolveAssemblyReference.cache
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.HomeForm.resources
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.Properties.Resources.resources
+C:\Users\han909\Desktop\OpenDoor\OpenDoor-Client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csproj.GenerateResource.Cache
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe.config
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\OpenDoor-Client.exe
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\OpenDoor-Client.pdb
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\OpenDoorAPI.Contracts.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\OzekiSDK.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\gdk-sharp.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\glib-sharp.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\pango-sharp.dll
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\Newtonsoft.Json.xml
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\System.Net.Http.Formatting.xml
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\gdk-sharp.pdb
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\glib-sharp.pdb
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\bin\Debug\pango-sharp.pdb
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csprojResolveAssemblyReference.cache
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.HomeForm.resources
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\ArduinoBoardTest.Properties.Resources.resources
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csproj.GenerateResource.Cache
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\OpenDoor-Client.csproj.CoreCompileInputs.cache
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\OpenDoor-Client.exe
+D:\Computer Engineering\3rd year\Semester 2\SW Eng Workshop\OpenDoor Project\פרויקט\final project\opendoor\opendoor-client\OpenDoor-Client\obj\Debug\OpenDoor-Client.pdb

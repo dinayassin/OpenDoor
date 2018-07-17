@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="OpenDoor.master.cs" Inherits="WebSite.OpenDoor" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title><%: Page.Title %> .:. OpenDoor</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <%-- Css --%>
+    <link href="Css/bootstrap.css" rel="stylesheet" />
+    <link href="Css/bootstrap.min.css" rel="stylesheet" />
+    <link href="Css/MyCss.css" rel="stylesheet" />
+    <link href="Css/Site.css" rel="stylesheet" />
+    <link href="Css/MasterPage.css" rel="stylesheet" />
+
+    <script src="Js/jquery-3.2.1.min.js"></script>
+    <script src="Js/JS.js"></script>
+    <script src="Js/MasterPage.js"></script>
+
+
+</head>
+
+<body>
+    <form runat="server">
+
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" id="lblUserName" runat="server" href="#"></a>
+                    <%--<a runat="server" id="lblFullName" runat="server"></a>)--%>
+                </div>
+                <div class="navbar-collapse collapse">
+
+
+                    <ul class="nav navbar-nav navbar-right">
+
+                        <li>
+                            <img id="imgLogOut" src="img/logout.png" alt="LogOut" style="padding: 5px; height: 60px; width: auto;" />
+                            <img id="ChangePassWordimg" src="img/Change_password.png" onclick="ChangePassFunc()" alt="Change PassWord" style="padding: 5px; height: 60px; width: auto;" /></li>
+
+                    </ul>
+
+                </div>
+            </div>
+        </div>
+        <div class="container body-content">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+            <br />
+            <footer>
+                <div class="Masterfooter"><%: DateTime.Now.Year %> &copy; OpenDoor System - Ruppin</div>
+            </footer>
+        </div>
+    </form>
+
+
+
+
+    <div id="ChangePassModal" class="modalDialog">
+        <div id="ChangePassModalPanel">
+            <a href="#close" title="Close" class="close">X</a>
+            <div id="ChangePassModal_Title">Title</div>
+            <div id="ChangePassModal_Content">
+
+                <table>
+                    <tr>
+                        <td>Current PassWord:
+                        </td>
+                        <td>
+                            <input type="password" id="ChangePassModal_CurrentPass" /><br />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>New PassWord:
+                        </td>
+                        <td>
+                            <input type="password" id="ChangePassModal_NewPass" /><br />
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td>Confirm PassWord:
+                        </td>
+                        <td>
+                            <input type="password" id="ChangePassModal_ConfirmPass" /><br />
+                        </td>
+                    </tr>
+
+                </table>
+
+                <center>
+             <button type='button' class='btn btn-info' id='ChangePassModal_btnSave'>Save</button>
+                    <img id="ChangePassModal_WaitImg" src="img/pleaseWait.gif"/>
+                    <br />                
+            </center>
+                <div id="ChangePassModal_message"></div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+</body>
+
+
+
+</html>

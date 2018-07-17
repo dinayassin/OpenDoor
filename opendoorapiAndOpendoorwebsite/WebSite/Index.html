@@ -1,0 +1,76 @@
+﻿<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+<link href="Css/style.css" rel="stylesheet" />
+<script src="Js/jquery-3.2.1.min.js"></script>
+<link href="Css/Index.css" rel="stylesheet" />
+<script src="Js/JS.js"></script>
+<script src="Js/index.js"></script>
+
+<div class="main">
+
+
+    <div class="container">
+        <center>
+            <div class="middle">
+                <div id="login">
+                    <div id="LoginFormDiv">
+                        <form onsubmit="return validateFormOnSubmit(this);" method="get" id="LoginForm">
+                            <fieldset class="clearfix">
+
+                                <p><span class="fa fa-user"></span><input type="text" placeholder="UserName" id="TxtUsername" required></p> <!-- JS because of IE support; better: placeholder="Username" -->
+                                <p><span class="fa fa-lock"></span><input type="password" Placeholder="Password" id="TxtPassword" required></p> <!-- JS because of IE support; better: placeholder="Password" -->
+
+                                <div>
+                                    <span style="width:48%; text-align:left;  display: inline-block;">
+                                        <a class="small-text" id="txtForgotPassword">
+                                            Forgot password?
+                                        </a>
+                                    </span>
+                                    <span style="width:50%; text-align:right;  display: inline-block;">
+                                        <input type="submit" id="btnSignIn" value="Sign In">
+                                    </span><br /><br />
+                                    <p>
+                                        <div id="infoDiv"></div>
+                                    </p>
+                                </div>
+                            </fieldset>
+                            <div class="clearfix"></div>
+                        </form>
+                        <div class="clearfix"></div>
+                    </div> <!-- end LoginFormDiv -->
+                    <div id="ForgotPasswordDiv">
+                        <form onsubmit="return ForgotPassword(this);" method="get" id="ForgotPasswordForm">
+                            <fieldset class="clearfix">
+                                <div class="FPtextTitle">Forgot your password?</div><br />
+                                <div class="FPtextCon">Enter your UserName to reset your password.<br /> You may need to check your spam folder or unblock OpenDoorR2017@gmail.com.</div>
+                            </fieldset><br />
+                            <fieldset class="clearfix">
+                                <p><span class="fa fa-user"></span><input type="text" id="TxtFPUsername" placeholder="UserName" required></p>
+                                <div>
+                                    <span style="width:48%; text-align:left;  display: inline-block;">
+                                        <input type="button" id="btnFPCancel" value="Cancel">
+                                    </span>
+                                    <span style="width:50%; text-align:right;  display: inline-block;">
+                                        <input type="submit" id="btnFPsubmit" value="Submit">
+                                    </span><br /><br />
+                                    <p>
+                                        <div id="FPinfoDiv"></div>
+                                    </p>
+                                </div>
+                            </fieldset>
+                            <div class="clearfix"></div>
+                        </form>
+                        <div class="clearfix"></div>
+                    </div> <!-- end ForgotPasswordDiv -->
+
+                    <div id="LoadingDiv">
+                        <img src="img/loading.gif" id="loadingImg" />
+                    </div><!-- end LoadingDiv -->
+                </div><!-- end login -->
+                <div class="logo">
+                    <img src="img/Logo.png" />
+                </div>
+
+            </div>
+        </center>
+    </div>
+</div>

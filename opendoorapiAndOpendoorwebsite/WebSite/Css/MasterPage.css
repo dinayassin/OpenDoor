@@ -1,0 +1,47 @@
+﻿
+
+#ChangePassModal_Title {
+	font-size: 30px;
+	font-family: Arial;
+	text-align: center;
+	border-radius: 10px;
+	color: white;
+	background-color: rgb(51, 122, 183);
+}
+
+#ChangePassModal_Content {
+	padding: 10px;
+	font-size: 20px;
+	font-family: Arial;
+	color: green;
+	visibility:hidden;
+}
+
+#ChangePassModal_CurrentPass {
+	color: blue;
+	margin: 10px;
+}
+
+#ChangePassModal_NewPass {
+	color: blue;
+	margin: 10px;
+}
+
+#ChangePassModal_ConfirmPass {
+	color: blue;
+	margin: 10px;
+}
+
+#ChangePassModalPanel {
+	width: 40%;
+}
+
+#ChangePassModal_message {
+color:red;
+padding:10px;
+}
+
+#ChangePassModal_WaitImg {
+    /*visibility: visible;*/
+    visibility: hidden;
+}

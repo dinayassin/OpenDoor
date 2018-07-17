@@ -1,0 +1,63 @@
+﻿#infoDiv {
+    color: red;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: left;
+}
+
+#loadingImg {
+    width: 300px;
+}
+
+.ServerErrorTitle {
+    font-size: 14px;
+    color: darkorchid;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.ServerErrorContent {
+    color: red;
+}
+
+.SuccessLogin {
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.FaildLogin {
+    color: red;
+}
+
+.FPtextTitle {
+    text-align: left;
+    font-size: 20px;
+    color: chartreuse;
+}
+
+.FPtextCon {
+    text-align: left;
+    font-size: 14px;
+    color: bisque;
+}
+
+
+.SuccessForgotPasswordRes {
+    color: green;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.FaildForgotPasswordRes {
+    color: red;
+}
+
+#FPinfoDiv {
+    color: red;
+    background-color: antiquewhite;
+    border-radius: 5px;
+    padding: 5px;
+    text-align: left;
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDoorAPI", "OpenDoorAPI\OpenDoorAPI.csproj", "{12366990-313E-4CCD-BAA4-DCA1E89A2839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenDoorAPI.Contracts", "OpenDoorAPI.Contracts\OpenDoorAPI.Contracts.csproj", "{1AF5C295-225E-4DFD-957D-9081DB5A4339}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSite", "WebSite\WebSite.csproj", "{ECB9DFDE-24D9-4CAF-9823-E6315A20A45E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12366990-313E-4CCD-BAA4-DCA1E89A2839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12366990-313E-4CCD-BAA4-DCA1E89A2839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12366990-313E-4CCD-BAA4-DCA1E89A2839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12366990-313E-4CCD-BAA4-DCA1E89A2839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF5C295-225E-4DFD-957D-9081DB5A4339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF5C295-225E-4DFD-957D-9081DB5A4339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF5C295-225E-4DFD-957D-9081DB5A4339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF5C295-225E-4DFD-957D-9081DB5A4339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECB9DFDE-24D9-4CAF-9823-E6315A20A45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB9DFDE-24D9-4CAF-9823-E6315A20A45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB9DFDE-24D9-4CAF-9823-E6315A20A45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB9DFDE-24D9-4CAF-9823-E6315A20A45E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

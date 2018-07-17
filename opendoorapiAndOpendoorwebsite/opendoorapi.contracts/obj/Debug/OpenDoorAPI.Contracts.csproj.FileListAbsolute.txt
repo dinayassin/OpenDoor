@@ -1,0 +1,27 @@
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\411\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\411\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\411\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\411\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\411\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\han909\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\han909\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\han909\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\han909\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\nashe\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\nashe\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\nashe\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\nashe\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\user\Source\Repos\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Source\Repos\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\user\Source\Repos\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Source\Repos\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\nashe\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\bin\Debug\OpenDoorAPI.Contracts.pdb
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.dll
+C:\Users\user\Desktop\OpenDoor\OpenDoorAPI And OpenDoorWebSite\OpenDoorAPI.Contracts\obj\Debug\OpenDoorAPI.Contracts.pdb
